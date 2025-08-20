@@ -11,6 +11,9 @@ This is my very first static website project, hosted on \*\*AWS S3\*\* and manag
 It’s a small step, but it marks the beginning of my cloud journey.  
 
 
+##Screenshots
+
+
 
 \## 📂 Project Structure
 
