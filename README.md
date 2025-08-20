@@ -1,8 +1,8 @@
-\# 🌩 My Cloud Portfolio  
+\#  My Cloud Portfolio  
 
 
 
-Welcome to my Cloud Computing portfolio! 🚀  
+Welcome to my Cloud Computing portfolio!   
 
 
 
@@ -22,7 +22,7 @@ It’s a small step, but it marks the beginning of my cloud journey.
 
 
 
-\## 🌐 Live Demo
+\##  Live Demo
 
 👉 \[View Portfolio](https://your-bucket-url.s3-website-region.amazonaws.com/)  
 
